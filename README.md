@@ -36,7 +36,7 @@
 </div>
 
 <h3 align="center">
-  🔎CONTACT🔍
+ 🌏WEBSITE🌏
 </h3>
 <br>
 <div align="center">
