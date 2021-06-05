@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=MOONG2&fontSize=90&animation=fadeIn&fontAlignY=40)
-<div align="center">
+<h2 align="center">
   🔎CONTACT🔍
-</div>
+</h2>
 
 <div align="center">
   
