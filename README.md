@@ -41,8 +41,8 @@
 <br>
 <div align="center">
   
-  [![velog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@moong2)](https://velog.io/@moong2)
   [![portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://moong2.github.io)](https://moong2.github.io)
+  [![velog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@moong2)](https://velog.io/@moong2)
   
 </div>
 
