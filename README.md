@@ -24,7 +24,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)  
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-  ![TravisCI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white) 
+  ![TravisCI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white)   
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
   
