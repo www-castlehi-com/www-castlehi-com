@@ -6,10 +6,11 @@
 
 <div align="center">
   
-  <br />
+  <img src="https://www.fightersgeneration.com/news2022/char3/spiderman-ps4-photo-mode.gif" />
+
+  [![soopark's 42 stats](https://badge42.vercel.app/api/v2/clfutiyec000608jmfz9hres8/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=www_castlehi)](https://solved.ac/www_castlehi)
-  [![soopark's 42 stats](https://badge42.vercel.app/api/v2/clfutiyec000608jmfz9hres8/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
   
 </div>
 
