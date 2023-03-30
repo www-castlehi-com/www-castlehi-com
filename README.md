@@ -5,8 +5,6 @@
 <br>
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoong2&count_bg=%23F3EA5C&title_bg=%2340B9F0BF&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=www_castlehi)](https://solved.ac/www_castlehi)
   
