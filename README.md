@@ -38,7 +38,7 @@
 <br>
 <div align="center">
   
-  [![portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://moong2.github.io)](https://moong2.github.io)
+<!--   [![portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://moong2.github.io)](https://moong2.github.io) -->
   [![tistory](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@moong2)](https://castlehi.tistory.com)
   
 </div>
