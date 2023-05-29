@@ -26,7 +26,10 @@
   ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
   <br>
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-  ![TravisCI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white)   
+  ![TravisCI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
+  <br>
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
   
