@@ -4,11 +4,13 @@
 </h3> -->
 <br>
 
+<!--
 <div align="center">
   
   <img src="https://www.fightersgeneration.com/news2022/char3/spiderman-ps4-photo-mode.gif" />
 
 </div>
+-->
 
 <h3 align="center">
   💻TECH SKILLS💻
