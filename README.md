@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=WWW.CASTLEHI.COM&fontSize=50&animation=fadeIn&fontAlignY=40)
-<!-- <h3 align="center">
-👋Hi there👋
-</h3> -->
-<br>
+![header](https://capsule-render.vercel.app/api?type=slice&height=270&color=gradient&text=www.castlehi.com&reversal=true&fontSize=50&fontAlignY=58&animation=fadeIn&section=header&rotate=-17&fontAlign=37)
 
 <!--
 <div align="center">
@@ -55,5 +51,3 @@
   [![soopark's 42 stats](https://badge.mediaplus.ma/kettlebells/soopark?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
   
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer)
