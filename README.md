@@ -47,7 +47,5 @@
 <div align="center">
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=www_castlehi)](https://solved.ac/www_castlehi)
-
-  [![soopark's 42 stats](https://badge.mediaplus.ma/kettlebells/soopark?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
   
 </div>
