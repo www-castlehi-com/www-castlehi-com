@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=270&color=gradient&text=www.castlehi.com&reversal=true&fontSize=50&fontAlignY=58&animation=fadeIn&section=header&rotate=-17&fontAlign=37)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=www-castlehi-com&section=header&reversal=false&textBg=false&fontColor=b9e0fd&animation=fadeIn&fontSize=50&strokeWidth=2&stroke=111111)
 
 <!--
 <div align="center">
