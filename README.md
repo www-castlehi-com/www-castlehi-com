@@ -49,6 +49,5 @@
 <div align="center">
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=www_castlehi)](https://solved.ac/www_castlehi)
-  [![코드트리|실력진단-castlehi](https://banner.codetree.ai/v1/banner/castlehi)](https://www.codetree.ai/profiles/castlehi)
   
 </div>
