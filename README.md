@@ -35,17 +35,6 @@
   
 </div>
 
-<h3 align="center">
- 🌏WEBSITE🌏
-</h3>
-<br>
-<div align="center">
-
-
-  [![velog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@www-castlehi-com)](https://velog.io/@www-castlehi-com)
-  
-</div>
-
 <div align="center">
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=www_castlehi)](https://solved.ac/www_castlehi)
