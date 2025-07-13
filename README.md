@@ -42,7 +42,7 @@
 <div align="center">
 
 
-  [![tistory](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@moong2)](https://castlehi.tistory.com)
+  [![velog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@www-castlehi-com)](https://velog.io/@www-castlehi-com)
   
 </div>
 
